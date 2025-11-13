@@ -6,7 +6,7 @@ Bash shell installed
 
 This is a mini terminal game so you can practice mostly with the touch command.
 
-Download the zip file touch_challenge.zip and extract the contents on your PC. 
+Download the zip file touch_challenge.zip and extract the contents on your PC(unzip touch_challenge.zip). 
 Open the terminal, navigate inside the directories, list the contents on each directory 
 and when ready open the file "ask_the_penguin_fellow" for instructions.
 
