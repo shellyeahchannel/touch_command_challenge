@@ -1,16 +1,23 @@
+# Summary
+
+This is a mini terminal game so you can practice with the shell commands, mostly with the touch command.
+
 #Requirements
 
 Bash shell installed
 
 #Instructions 
 
-This is a mini terminal game so you can practice mostly with the touch command.
+Download the zip file touch_challenge.zip and extract the contents on your PC.
+• unzip touch_challenge.zip
+• The zip file is password protected, find the passphrase inside the video https://youtu.be/ywE4AjTTvCk
 
-Download the zip file touch_challenge.zip and extract the contents on your PC(unzip touch_challenge.zip). 
-Open the terminal, navigate inside the directories, list the contents on each directory 
-and when ready open the file "ask_the_penguin_fellow" for instructions.
+Open the terminal, navigate inside the directories, list the contents of each directory, and when ready  "ask_the_fellow_penguin" for instructions.
+• cat ask_the_fellow_penguin
 
 When you believe that you have fullfilled the mision's tasks, execute the file "reveal_the_secret_phrase".
+
+# Suggestions
 
 To play this game you have to be familiar with cd, pwd, ls and touch commands.
 You can watch the YouTube tutorial videos of each command, on shell.yeah.channel.
