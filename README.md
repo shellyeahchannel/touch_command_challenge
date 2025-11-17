@@ -2,11 +2,11 @@
 
 This is a mini terminal game so you can practice with the shell commands, mostly with the touch command.
 
-#Requirements
+# Requirements
 
 Bash shell installed
 
-#Instructions
+# Instructions
 
 Download the zip file touch_challenge.zip and extract the contents on your PC.
 • unzip touch_challenge.zip
