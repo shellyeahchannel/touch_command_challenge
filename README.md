@@ -4,23 +4,23 @@ This is a mini terminal game so you can practice with the shell commands, mostly
 
 # Requirements
 
-bash shell installed
+• bash shell installed
 
-unzip installed
+• unzip installed
 
 # Instructions
 
-Download the zip file touch_challenge.zip and extract the contents on your PC.
+• Download the zip file touch_challenge.zip and extract the contents on your PC.
 
 • unzip touch_challenge.zip
 
 • The zip file is password protected, find the passphrase inside the video https://youtu.be/ywE4AjTTvCk
 
-Open the terminal, navigate inside the directories, list the contents of each directory, and when ready  "ask_the_fellow_penguin" for instructions.
+• Open the terminal, navigate inside the directories, list the contents of each directory, and when ready  "ask_the_fellow_penguin" for instructions.
 
 • cat ask_the_fellow_penguin
 
-When you believe that you have fullfilled the mision's tasks, execute the file "reveal_the_secret_phrase".
+• When you believe that you have fullfilled the mision's tasks, execute the file "reveal_the_secret_phrase".
 
 # Suggestions
 
