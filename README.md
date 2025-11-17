@@ -4,7 +4,8 @@ This is a mini terminal game so you can practice with the shell commands, mostly
 
 # Requirements
 
-Bash shell installed
+bash shell installed
+unzip installed
 
 # Instructions
 
