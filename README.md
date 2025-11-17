@@ -11,7 +11,9 @@ unzip installed
 # Instructions
 
 Download the zip file touch_challenge.zip and extract the contents on your PC.
+
 • unzip touch_challenge.zip
+
 • The zip file is password protected, find the passphrase inside the video https://youtu.be/ywE4AjTTvCk
 
 Open the terminal, navigate inside the directories, list the contents of each directory, and when ready  "ask_the_fellow_penguin" for instructions.
