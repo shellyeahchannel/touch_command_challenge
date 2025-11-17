@@ -16,9 +16,7 @@ This is a mini terminal game so you can practice with the shell commands, mostly
 
 • The zip file is password protected, find the passphrase inside the video https://youtu.be/ywE4AjTTvCk
 
-• Open the terminal, navigate inside the directories, list the contents of each directory, and when ready  "ask_the_fellow_penguin" for instructions.
-
-• cat ask_the_fellow_penguin
+• Open the terminal, navigate inside the directories, list the contents of each directory, and when ready  "ask_the_fellow_penguin" for instructions. with "cat ask_the_fellow_penguin"
 
 • When you believe that you have fullfilled the mision's tasks, execute the file "reveal_the_secret_phrase".
 
