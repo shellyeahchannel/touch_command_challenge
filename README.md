@@ -5,6 +5,7 @@ This is a mini terminal game so you can practice with the shell commands, mostly
 # Requirements
 
 bash shell installed
+
 unzip installed
 
 # Instructions
