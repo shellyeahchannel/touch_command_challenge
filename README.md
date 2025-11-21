@@ -1,3 +1,6 @@
+###### NOT READY YET #########
+
+
 # Summary
 
 This is a mini terminal game so you can practice with the shell commands, mostly with the touch command.
