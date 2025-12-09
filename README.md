@@ -13,9 +13,11 @@ This is a mini terminal game so you can practice with the shell commands, mostly
 
 # Instructions
 
-• Download the zip file touch_challenge.zip and extract the contents on your PC.
-
-• unzip touch_challenge.zip
+• Download the zip file touch_challenge.zip and extract the contents on a seperate folder under /tmp on your PC.
+mkdir /tmp/challenge
+mv "currentlocation" /tmp/challenge
+cd /tmp/challenge
+unzip touch_challenge.zip
 
 • The zip file is password protected, find the passphrase inside the video https://youtu.be/ywE4AjTTvCk
 
