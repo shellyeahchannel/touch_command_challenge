@@ -1,3 +1,6 @@
+## [Download the Zip File Here]
+https://github.com/shellyeahchannel/touch_command_challenge/releases/download/v1.0.0/touch_challenge.zip
+
 # Summary
 
 This is a mini terminal game so you can practice with shell commands, mostly with the touch command.
