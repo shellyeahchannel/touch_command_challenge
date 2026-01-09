@@ -14,6 +14,7 @@ This is a mini terminal game so you can practice with shell commands, mostly wit
 # Instructions
 
 • Download the zip file touch_challenge.zip and extract the contents on a seperate folder under /tmp on your PC.
+
 mkdir /tmp/challenge
 
 mv touch_challenge.zip /tmp/challenge
